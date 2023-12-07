@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1087043678544",
+    "project_id": "chrily-e3f06",
+    "storage_bucket": "chrily-e3f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087043678544:android:62c7107b7d3bef4311bc55",
+        "android_client_info": {
+          "package_name": "com.example.vendor_app_only"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087043678544-en8mhsvect6d141uvh4cr4au30i8kc31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDUd0VtRu6vJlTNMeAHGIZBqJSdtU7vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087043678544-en8mhsvect6d141uvh4cr4au30i8kc31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087043678544:android:47f910184a6d8cb211bc55",
+        "android_client_info": {
+          "package_name": "com.meriem.chrily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087043678544-en8mhsvect6d141uvh4cr4au30i8kc31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDUd0VtRu6vJlTNMeAHGIZBqJSdtU7vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087043678544-en8mhsvect6d141uvh4cr4au30i8kc31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

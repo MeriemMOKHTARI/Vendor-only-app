@@ -1,0 +1,16 @@
+# .gitignore for Flutter
+.dart_tool/
+.flutter-plugins
+.packages
+.vscode/
+build/
+ios/Pods/
+ios/Podfile.lock
+android/build/
+android/app/build/
+.idea/
+*.iml
+*.log
+build/
+.history/
+.metadata
